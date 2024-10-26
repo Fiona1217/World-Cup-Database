@@ -1,4 +1,4 @@
-# World-Cup-Database Project
+# World-Cup-Database Project ⚽
 ## Overview
 This project involves the creation and management of a PostgreSQL database to store and analyze data related to FIFA World Cup games. The database consists of tables for teams and games, allowing for various queries to gain insights into tournament statistics.
 
